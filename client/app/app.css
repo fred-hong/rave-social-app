@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Kodchasan &display=swap");
+
+@font-face {
+    font-family: "Kodchasan-Regular";
+    src: url("../assets/fonts/Kodchasan-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Kodchasan-Bold";
+    src: url("../assets/fonts/Kodchasan-Bold.ttf");
+}
